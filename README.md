@@ -68,4 +68,5 @@ To improve model performance, the following techniques could be applied:
 
 The project successfully developed an LSTM-based language model capable of generating text in the style of Agatha Christie. Although LSTMs performed well, transformer models like GPT-2 are likely to produce more coherent text by efficiently handling long-range dependencies.
 
-
+The dataset can be downloaded here in a single text file:
+https://www.kaggle.com/datasets/jannesklaas/scifi-stories-text-corpus
